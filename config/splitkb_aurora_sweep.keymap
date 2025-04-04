@@ -149,8 +149,8 @@ media {
         french_layer {
             bindings = <
 &trans  &E_grave &E_circ &E_acute &trans    &trans  &U_grave &I_diac &O_circ &O_diac
-&A_circ &fr_ae &E_diac &trans &trans               &U_circ &trans &trans &fr_oe &trans
-&A_grave &trans &fr_c_cedilla &trans &trans              &trans &trans &trans &trans &trans
+&A_grave &fr_ae &E_diac &trans &trans               &U_circ &trans &trans &fr_oe &trans
+&A_circ &trans &fr_c_cedilla &trans &trans              &trans &trans &trans &trans &trans
 &trans          &trans                 &trans          &none
             >;
         };
